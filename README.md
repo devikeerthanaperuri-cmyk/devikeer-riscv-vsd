@@ -28,7 +28,7 @@ $ sudo apt-get install iverilog
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="604" alt="gtkwave2" src="https://github.com/talpasai-gif/riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.52.08.jpeg">
+<img width="604" alt="gtkwave2" src="https://github.com/devikeerthanaperuri-cmyk/devikeer-riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.52.08.jpeg">
 
 <img width="1008" alt="gtkwave1" src="https://github.com/talpasai-gif/riscv-vsd/blob/main/WhatsApp%20Image%202025-09-20%20at%2023.52.47.jpeg">
 </details>
